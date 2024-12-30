@@ -13,7 +13,7 @@ Domain : Java programming
 Duration : December 20 to january 20
 
 
-Mentor : Neel santhosh kumar
+Mentor : Neela santhosh kumar
 
 
 Overview Of The Project 
